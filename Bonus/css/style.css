@@ -1,0 +1,36 @@
+div {
+    min-height: 60px;
+    width: 100%;
+}
+
+.black {
+    background-color: black;
+}
+
+.red {
+    background-color: #c50000;
+}
+
+.cremisi {
+    background-color: #800040;
+}
+
+.yellow {
+    background-color: #fffe43;
+}
+
+.canary {
+    background-color: #e0aa19;
+}
+
+.darkgrey {
+    background-color: #81bec3;
+}
+
+.white {
+    background-color: white;
+}
+
+.darkergrey {
+    background-color: #3f807b;
+}

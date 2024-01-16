@@ -1,0 +1,27 @@
+.blue {
+    background-color: #006cfa;
+    color: white;
+    text-align: center;
+    padding: 15px 15px;
+}
+
+.green {
+    background-color: #00e165;
+    padding: 10px;
+}
+
+.border-1 {
+    border-left: 1px solid white;
+}
+
+.border-2 {
+    border-bottom: 1px solid white;
+}
+
+.border-3 {
+    border-left: 1px solid #006cfa;
+}
+
+.higher {
+    height: 100px;
+}
